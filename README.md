@@ -7,6 +7,5 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 
 ### Технологии
-* 🛠️ Frontend: React, Vue.js
 * 🏢 Backend: Node.js, Django
 * 🗄️ Базы данных: PostgreSQL, MongoDB
